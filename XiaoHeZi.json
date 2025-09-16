@@ -254,7 +254,7 @@
       "name": "🚑急救教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
@@ -447,9 +447,9 @@
       "name": "🐯虎牙直播",
       "type": 3,
       "api": "http://xhztv.top/xhz/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "http://xhztv.top/xhz/js/虎牙直播.js"
     },
     {
@@ -457,9 +457,9 @@
       "name": "🐠斗鱼直播",
       "type": 3,
       "api": "http://xhztv.top/xhz/js/lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "http://xhztv.top/xhz/js/斗鱼直播.js"
     },
     {
@@ -531,7 +531,7 @@
       "name": "🅱️哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://xhztv.top/xhz/sub/Bili.json"
@@ -783,4 +783,5 @@
     "feiyun",
     "飞云"
   ]
+
 }
