@@ -45,6 +45,11 @@
       "name": "魔爪解析",
       "type": 0,
       "url": "https://mzm3u8jx.com/aliplayer.html?url="
+    },
+    {
+      "name": "文采",
+      "type": 0,
+      "url": "https://api.wencai8.com/api.php/provide/parser/?url="
     }
   ],
   "flags": [
@@ -280,5 +285,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": " http://xhztv.top/xhz/Yoursmile.jar;md5;69DADB9A99A618EA9E2F4E2B92968E41"
+  "spider": "https://www.wencai8.com/jar.php"
 }
