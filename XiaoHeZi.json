@@ -12,7 +12,7 @@
       "filterable": 1
     },
      {
-       "key":"文采",
+       "key": "csp_JpysGuard",
         "name":"文采┃秒播",
         "type":3,
         "api":"csp_JpysGuard",
@@ -1236,3 +1236,4 @@
   ]
 
 }
+
